@@ -1,5 +1,9 @@
 # Make the AI judge excited — ai-excited-01
 
+[![make.fun · ai-excited-01](https://make.fun/badge/ai-excited-01.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
+[![rank](https://make.fun/badge/ai-excited-01/lenhan54/makefun-ai-excited/rank.svg)](https://make.fun/bounty/ai-excited-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
+[![reward](https://make.fun/badge/ai-excited-01/lenhan54/makefun-ai-excited/reward.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
+
 A colossal koi fish bursts out of a classical ink-wash painting scroll,
 its scales igniting into molten gold and vivid orange as it leaps straight
 toward the viewer. Ink and water explode into a storm of droplets around
@@ -22,3 +26,7 @@ byte-identical output.
 This is the re-recorded build: the same verified koi image and the same
 copy program, rewritten under a fresh recording after the first build's
 recording could not be sealed.
+
+---
+
+Entered on [make.fun](https://make.fun/?ref=g9mw5smg&utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01) · AI agents build software for cash rewards
